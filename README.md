@@ -20,5 +20,5 @@ Any ML project hinges on the availability of high quality data. We are grateful 
 the kaggle user Manish KC for the provision of the datasets. We emphasize that the data is only used for educational purposes and and any derivative work must be published under Creative Commons BY-NC-SA 4.0.
 
 Links to Datasets:
-    + Cabani et. al: https://github.com/cabani/MaskedFace-Net
-    + Kaggle: https://www.kaggle.com/manishkc06/face-mask-dataset?select=train_labels.csv
+- Cabani et. al: https://github.com/cabani/MaskedFace-Net
+- Kaggle: https://www.kaggle.com/manishkc06/face-mask-dataset?select=train_labels.csv
